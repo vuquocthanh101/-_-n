@@ -1,2 +1,2 @@
 
-<?php echo "Xin chào, đây là trang TextDriver!"; ?>
+<?php echo "Xin chào khoa!"; ?>
