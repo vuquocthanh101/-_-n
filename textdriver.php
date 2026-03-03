@@ -1,2 +1,2 @@
 
-<?php echo "Xin chào khoa!"; ?>
+<?php echo "Xin chào khoav ngu!"; ?>
